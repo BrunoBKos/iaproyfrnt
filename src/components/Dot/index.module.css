@@ -1,0 +1,31 @@
+.container {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+}
+
+.dot {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.clicked {
+    height: 12px;
+    width: 12px;
+    background-color: black;
+    border: 3px solid white;
+}
+
+.name {
+    position: relative;
+    color: white;
+    width: 200px;
+    pointer-events: none;
+}
+
+.path {
+    background-color: white;
+}

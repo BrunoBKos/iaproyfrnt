@@ -1,0 +1,6 @@
+.line {
+    position: absolute;
+    height: 0px;
+    border-radius: 10px;
+    border: 2px dashed white;
+}

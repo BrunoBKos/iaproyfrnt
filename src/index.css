@@ -1,0 +1,13 @@
+#root {
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    border: 0;
+
+    /* Declaraciones de colores (para solo tener que modificarlos una vez si necesario) */
+    --bg-green: #004d4d;
+}
+
+body {
+    margin: 0;
+}

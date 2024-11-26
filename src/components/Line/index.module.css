@@ -1,0 +1,5 @@
+.line {
+    position: absolute;
+    height: 20px;
+    border-radius: 10px;
+}
