@@ -6,7 +6,6 @@
 div {
     padding: 0;
     border: 0;
-    /* overflow: hidden; */
 }
 
 .main {
@@ -31,6 +30,10 @@ div {
     font-variation-settings:
       "wdth" 100;
   }
+
+#calculando {
+    align-self: center;
+}
 
 .destiny {
     height: 40px;
@@ -64,12 +67,13 @@ div {
     height: 100%;
     display: flex;
     justify-content: center;
-    min-width: 200px;
+    min-width: 300px;
 }
 
 .caja-div{
     width: 60%;
-    height: 350px;
+    height: 450px;
+    min-height: 350px;
     display: flex;
     flex-direction: column;
     padding: 10px;
